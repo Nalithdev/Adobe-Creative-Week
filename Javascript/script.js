@@ -1,5 +1,5 @@
-let choix1 = ["Avancer", "Reculer", "Tourner à gauche", "Tourner à droite"];
-let choix2 = ["Tourner à droite", "Avancer", "Tourner à droite", "Tourner à gauche"];
+let choix1 = ["Avancer", "Reculer", "Tourner à gauche", "Tourner à gauche"];
+let choix2 = ["Tourner à droite", "Avancer", "Tourner à droite", "Tourner à droite"];
 let choix = document.querySelector(".choix");
 let body = document.querySelector("body");
 let step = document.querySelector(".steps");
